@@ -1,7 +1,8 @@
 
 {
 	"News_list": [{
-			"id": "Bussiness",
+			"category": "Bussiness",
+			"heading":"Indian rupee opended higher at 68.88 against the US dollar today",
 			"description": "BitMax.io (BTMX.com), the industry-leading next-generation digital asset exchange, has announced a strategic partnership with Alluva, a blockchain-based product (web and DApp) that turns cryptocurrency investment market noise into actionable data. Alluva toke… [+7340 chars]",
 			"urltoimage": "null",
 			"urltovideo": "opZ69P-0Jbc",
@@ -10,7 +11,8 @@
 			"arrayofimages": []
 
 		}, {
-			"id": "Bussiness",
+			"category": "Bussiness",
+			"heading":"Indian rupee opended higher at 68.88 against the US dollar today",
 			"description": "BitMax.io (BTMX.com), the industry-leading next-generation digital asset exchange, has announced a strategic partnership with Alluva, a blockchain-based product (web and DApp) that turns cryptocurrency investment market noise into actionable data. Alluva toke… [+7340 chars]",
 			"urltoimage": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg",
 			"urltovideo": "null",
@@ -19,7 +21,8 @@
 			"arrayofimages": []
 
 		}, {
-			"id": "Bussiness",
+			"category": "Bussiness",
+			"heading":"Indian rupee opended higher at 68.88 against the US dollar today",
 			"description": "BitMax.io (BTMX.com), the industry-leading next-generation digital asset exchange, has announced a strategic partnership with Alluva, a blockchain-based product (web and DApp) that turns cryptocurrency investment market noise into actionable data. Alluva toke… [+7340 chars]",
 			"urltoimage": "null",
 			"urltovideo": "null",
@@ -28,7 +31,8 @@
 			"arrayofimages": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg", "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg", "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg"]
 
 		}, {
-			"id": "Politics",
+			"category": "Politics",
+			"heading":"Indian rupee opended higher at 68.88 against the US dollar today",
 			"description": "BitMax.io (BTMX.com), the industry-leading next-generation digital asset exchange, has announced a strategic partnership with Alluva, a blockchain-based product (web and DApp) that turns cryptocurrency investment market noise into actionable data. Alluva toke… [+7340 chars]",
 			"urltoimage": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg",
 			"urltovideo": "null",
@@ -37,7 +41,8 @@
 			"arrayofimages": []
 
 		}, {
-			"id": "Entertainment",
+			"category": "Entertainment",
+			"heading":"Indian rupee opended higher at 68.88 against the US dollar today",
 			"description": "BitMax.io (BTMX.com), the industry-leading next-generation digital asset exchange, has announced a strategic partnership with Alluva, a blockchain-based product (web and DApp) that turns cryptocurrency investment market noise into actionable data. Alluva toke… [+7340 chars]",
 			"urltoimage": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerBlazes.jpg",
 			"urltovideo": "null",
@@ -47,7 +52,8 @@
 
 		},
 		{
-			"id": "Sports",
+			"category": "Sports",
+			"heading":"Indian rupee opended higher at 68.88 against the US dollar today",
 			"description": "BitMax.io (BTMX.com), the industry-leading next-generation digital asset exchange, has announced a strategic partnership with Alluva, a blockchain-based product (web and DApp) that turns cryptocurrency investment market noise into actionable data. Alluva toke… [+7340 chars]",
 			"urltoimage": "null",
 			"urltovideo": "opZ69P-0Jbc",
@@ -56,7 +62,8 @@
 			"arrayofimages": []
 
 		}, {
-			"id": "Technology",
+			"category": "Technology",
+			"heading":"Indian rupee opended higher at 68.88 against the US dollar today",
 			"description": "BitMax.io (BTMX.com), the industry-leading next-generation digital asset exchange, has announced a strategic partnership with Alluva, a blockchain-based product (web and DApp) that turns cryptocurrency investment market noise into actionable data. Alluva toke… [+7340 chars]",
 			"urltoimage": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerMeltdowns.jpg",
 			"urltovideo": "null",
