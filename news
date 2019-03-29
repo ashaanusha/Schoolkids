@@ -6,7 +6,7 @@
             "urltoimage": "https://smedia2.intoday.in/btmt/images/stories/tata-thyssenkrup_660_063018034205_032719053022.jpg",
             "urltovideo": "null",
             "publishdate": "2019-03-14T04:00:35Z",
-            "type": "null",
+            "type": "wholepage",
             "arrayofimages": []
         }, {
             "category": "Bussiness",
@@ -15,7 +15,7 @@
             "urltoimage": "null",
             "urltovideo": "kMuK2Od_tH0",
             "publishdate": "2019-03-14T04:00:35Z",
-            "type": "wholepage",
+            "type": "null",
             "arrayofimages": []
         }, {
             "category": "Politics",
@@ -80,7 +80,7 @@
             "urltoimage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2019/03/28/Pictures/vivo-ipl-2018-m31-rcb-v-mi_ebbe6378-514c-11e9-a540-e59d8ae6a1ea.jpg",
             "urltovideo": "null",
             "publishdate": "2019-03-14T04:00:35Z",
-            "type": "null",
+            "type": "wholepage",
             "arrayofimages": []
         }, {
             "category": "Technology",
